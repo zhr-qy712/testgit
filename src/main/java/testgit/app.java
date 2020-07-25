@@ -6,7 +6,11 @@ public class app {
 		
 		System.out.println("helloworld");
 		System.out.println("...");
+<<<<<<< HEAD
 		System.out.println("......");
+=======
+		System.out.println("....");
+>>>>>>> branch 'master' of https://github.com/zhr-qy712/testgit.git
 	}
 
 }
